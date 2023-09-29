@@ -1,3 +1,46 @@
+header {
+
+
+   background-color: #1E4880;
+
+
+   color: #fff;
+
+
+   padding: 10px 0;
+
+
+   position: fixed;
+
+
+   width: 100%;
+
+
+   top: 0;
+   z-index: 100;
+   display: flex;
+   align-items: center;
+}
+
+
+
+
+.logo {
+   font-size: 24px;
+   font-weight: bold;
+   border-radius: 7px;
+   margin-left: 70px; /* Adicione um espaço à esquerda para separar a logo do canto superior esquerdo */
+}
+
+
+.logo-img {
+   width: 100px;
+   height: auto;
+   border-radius: 7px;
+}
+
+
+
 
 .container{
     align-items: center;
